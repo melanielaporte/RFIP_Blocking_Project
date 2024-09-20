@@ -1,4 +1,6 @@
-# GuardianShield 
+CODE COMING
+
+# GuardianShield RFIP Blocking Project
 
 This project implements an RFID blocking system using an Arduino microcontroller and an RFID reader module. The system is designed to block unauthorized RFID access by detecting RFID tags or cards and implementing a blocking mechanism.
 
